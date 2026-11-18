@@ -1,0 +1,24 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Senac_prova_do_pedraaaaao.Models;
+using Senac_prova_do_pedraaaaao.Services;
+
+namespace Senac_prova_do_pedraaaaao.Controllers
+{
+    [ApiController]
+    [Route("hangouts")]
+    public class HangoutsController : ControllerBase
+    {
+        private readonly HangoutService _hangoutService;
+
+        public HangoutsController(HangoutService hangoutService)
+        {
+            _hangoutService = hangoutService;
+        }
+
+        [HttpGet]
+        public ActionResult<List<Hangout>> Get()
+        {
+            return Ok(_hangoutService.GetAll());
+        }
+    }
+}

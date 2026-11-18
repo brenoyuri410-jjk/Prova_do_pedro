@@ -1,22 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\",
+  "WorkspaceRootPath": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\senac_prova_do_pedraaaaao\\senac_prova_do_pedraaaaao\\docs\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\docs\\APRESENTACAO.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\APRESENTACAO.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\senac_prova_do_pedraaaaao\\senac_prova_do_pedraaaaao\\docs\\spec.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\spec.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\senac_prova_do_pedraaaaao\\senac_prova_do_pedraaaaao\\docs\\business_rules.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\business_rules.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breno62251656\\.copilot\\plans\\plan-documentar-o-projeto-calendrio-de-rols.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\senac_prova_do_pedraaaaao\\senac_prova_do_pedraaaaao\\docs\\stack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{7DF8655E-7BD3-4AF5-880B-FDD90FCBE078}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\stack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breno62251656\\.copilot\\plans\\plan-validar-cadastro-de-rols.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breno62251656\\.copilot\\plans\\plan-adicionar-cadastro-de-rols.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\breno62251656\\.copilot\\plans\\plan-implementar-consulta-de-rols-em-memria.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\docs\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\docs\\spec.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\spec.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\docs\\business_rules.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\business_rules.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\docs\\stack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\docs\\stack.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\models\\hangout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\models\\hangout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\services\\hangoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\services\\hangoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\controllers\\hangoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\controllers\\hangoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|c:\\users\\breno62251656\\desktop\\prova do pedro\\prova_do_pedro\\senac_prova_do_pedraaaaao\\hangouts.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D0383F97-8D5B-F176-D340-257B6281BE09}|Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao.csproj|solutionrelative:senac_prova_do_pedraaaaao\\hangouts.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +66,198 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "SPEC.md",
-              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\SPEC.md",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\SPEC.md",
               "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Docs\\SPEC.md",
-              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\SPEC.md",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\SPEC.md",
               "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Docs\\SPEC.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-11-17T22:05:38.837Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BUSINESS_RULES.md",
-              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
-              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
-              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
-              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "plan-documentar-o-projeto-calendrio-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-documentar-o-projeto-calendrio-de-rols.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-documentar-o-projeto-calendrio-de-rols.md",
+              "ToolTip": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-documentar-o-projeto-calendrio-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-documentar-o-projeto-calendrio-de-rols.md [Visualiza\u00E7\u00E3o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-11-17T22:03:51.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T23:53:17.287Z",
+              "EditorCaption": " [Visualiza\u00E7\u00E3o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "STACK.md",
-              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
-              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
-              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
-              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-11-17T22:03:17.765Z",
+              "WhenOpened": "2026-11-17T23:53:00.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "APRESENTACAO.md",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\docs\\APRESENTACAO.md",
+              "RelativeDocumentMoniker": "docs\\APRESENTACAO.md",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\docs\\APRESENTACAO.md",
+              "RelativeToolTip": "docs\\APRESENTACAO.md",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T23:52:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "plan-validar-cadastro-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-validar-cadastro-de-rols.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-validar-cadastro-de-rols.md",
+              "ToolTip": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-validar-cadastro-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-validar-cadastro-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T23:51:34.11Z",
+              "EditorCaption": " [Visualiza\u00E7\u00E3o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plan-adicionar-cadastro-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-adicionar-cadastro-de-rols.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-adicionar-cadastro-de-rols.md",
+              "ToolTip": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-adicionar-cadastro-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-adicionar-cadastro-de-rols.md [Visualiza\u00E7\u00E3o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T23:42:15.974Z",
+              "EditorCaption": " [Visualiza\u00E7\u00E3o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hangouts.http",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Hangouts.http",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Hangouts.http",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Hangouts.http",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Hangouts.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-17T23:41:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "plan-implementar-consulta-de-rols-em-memria.md [Visualiza\u00E7\u00E3o]",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-implementar-consulta-de-rols-em-memria.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-implementar-consulta-de-rols-em-memria.md",
+              "ToolTip": "C:\\Users\\breno62251656\\.copilot\\plans\\plan-implementar-consulta-de-rols-em-memria.md [Visualiza\u00E7\u00E3o]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-implementar-consulta-de-rols-em-memria.md [Visualiza\u00E7\u00E3o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T23:29:46.053Z",
+              "EditorCaption": " [Visualiza\u00E7\u00E3o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Program.cs",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Program.cs",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Program.cs",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T23:29:31.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangoutsController.cs",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Controllers\\HangoutsController.cs",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Controllers\\HangoutsController.cs",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Controllers\\HangoutsController.cs",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Controllers\\HangoutsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T23:29:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HangoutService.cs",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Services\\HangoutService.cs",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Services\\HangoutService.cs",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Services\\HangoutService.cs",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Services\\HangoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T23:29:20.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hangout.cs",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Models\\Hangout.cs",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Models\\Hangout.cs",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Models\\Hangout.cs",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Models\\Hangout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T23:23:43.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BUSINESS_RULES.md",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Docs\\BUSINESS_RULES.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T22:03:51.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "STACK.md",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
+              "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
+              "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Docs\\STACK.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-17T22:03:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ARCHITECTURE.md",
-              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\ARCHITECTURE.md",
+              "DocumentMoniker": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\ARCHITECTURE.md",
               "RelativeDocumentMoniker": "Senac_prova_do_pedraaaaao\\Docs\\ARCHITECTURE.md",
-              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\Senac_prova_do_pedraaaaao\\Senac_prova_do_pedraaaaao\\Docs\\ARCHITECTURE.md",
+              "ToolTip": "C:\\Users\\breno62251656\\Desktop\\prova do pedro\\Prova_do_pedro\\Senac_prova_do_pedraaaaao\\Docs\\ARCHITECTURE.md",
               "RelativeToolTip": "Senac_prova_do_pedraaaaao\\Docs\\ARCHITECTURE.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-11-17T22:01:58.516Z",
               "EditorCaption": ""

@@ -1,0 +1,14 @@
+﻿using Senac_prova_do_pedraaaaao.Models;
+
+namespace Senac_prova_do_pedraaaaao.Services
+{
+    public class HangoutService
+    {
+        private readonly List<Hangout> _hangouts = [];
+
+        public List<Hangout> GetAll()
+        {
+            return _hangouts;
+        }
+    }
+}

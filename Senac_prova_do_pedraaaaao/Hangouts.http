@@ -1,0 +1,16 @@
+@HostAddress = http://localhost:5088
+
+GET {{HostAddress}}/hangouts
+Accept: application/json
+
+###
+
+POST {{HostAddress}}/hangouts
+Content-Type: application/json
+
+{
+  "title": "Cinema",
+  "date": "2026-06-20",
+  "time": "19:30",
+  "moneyNeeded": 35.00
+}
